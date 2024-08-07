@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Umpako Radio</string>
+    <string name="menu_vk">VKontakte</string>
+    <string name="menu_fb">Facebook</string>
+    <string name="menu_tw">Twitter</string>
+    <string name="menu_yt">Website</string>
+    <string name="menu_exit">Ausgang</string>
+    <string name="title_activity_main">Umpako Radio</string>
+    <string name="play">Abspielen</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="menu_fav">App bewerten</string>
+    <string name="menu_open">Audiostream öffnen</string>
+    <string name="stopped">Gestoppt</string>
+    <string name="paused">Pausiert</string>
+    <string name="prepare">Vorbereitung...</string>
+    <string name="reconnecting">Wiederverbindung...</string>
+    <string name="played">Spielen</string>
+    <string name="umpako">Umpako.com – unabhängiges Netzlabel für experimentelle Musik</string>
+</resources>

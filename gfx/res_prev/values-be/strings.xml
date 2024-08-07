@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_name">Умпако Радио</string>
+    <string name="menu_vk">ВКонтакте</string>
+    <string name="menu_fb">Facebook</string>
+    <string name="menu_tw">Twitter</string>
+    <string name="menu_yt">Сайт</string>
+	<string name="menu_exit">Выход</string>
+    <string name="title_activity_main">Умпако Радио</string>
+    <string name="play">Играть</string>
+    <string name="pause">Пауза</string>
+    <string name="stop">Стоп</string>
+    <string name="menu_fav">Оценить приложение</string>
+    <string name="menu_open">Открыть аудиопоток</string>
+    <string name="stopped">Остановлено</string>
+    <string name="paused">Приостановлено</string>
+    <string name="prepare">Подготовка...</string>
+    <string name="reconnecting">Переподключение...</string>
+    <string name="played">Играет</string>
+    <string name="umpako">Umpako.com – независимый сетевой лейбл экспериментальной музыки</string>
+</resources>

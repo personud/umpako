@@ -1,0 +1,84 @@
+<en-US>
+- Work in the background.
+- Automatic reconnection after connection loss.
+- HTTPS protocol support.
+- Localization in Russian, Ukrainian, English, Spanish, Portuguese, German and French.
+</en-US>
+<be>
+- Работа в фоновом режиме.
+- Автоматическое переподключение после потери соединения.
+- Поддержка протокола HTTPS.
+- Локализация на русском, украинском, английском, испанском, португальском, немецком и французском языке.
+</be>
+<de-DE>
+- Arbeiten Sie im Hintergrund.
+- Automatische Wiederverbindung nach Verbindungsverlust.
+- Unterstützung des HTTPS-Protokolls.
+- Lokalisierung in Russisch, Ukrainisch, Englisch, Spanisch, Portugiesisch, Deutsch und Französisch.
+</de-DE>
+<en-AU>
+- Work in the background.
+- Automatic reconnection after connection loss.
+- HTTPS protocol support.
+- Localization in Russian, Ukrainian, English, Spanish, Portuguese, German and French.
+</en-AU>
+<en-GB>
+- Work in the background.
+- Automatic reconnection after connection loss.
+- HTTPS protocol support.
+- Localization in Russian, Ukrainian, English, Spanish, Portuguese, German and French.
+</en-GB>
+<es-419>
+- Trabajar en segundo plano.
+- Reconexión automática después de la pérdida de conexión.
+- Soporte de protocolo HTTPS.
+- Localización en ruso, ucraniano, inglés, español, portugués, alemán y francés.
+</es-419>
+<es-ES>
+- Trabajar en segundo plano.
+- Reconexión automática después de la pérdida de conexión.
+- Soporte de protocolo HTTPS.
+- Localización en ruso, ucraniano, inglés, español, portugués, alemán y francés.
+</es-ES>
+<es-US>
+- Trabajar en segundo plano.
+- Reconexión automática después de la pérdida de conexión.
+- Soporte de protocolo HTTPS.
+- Localización en ruso, ucraniano, inglés, español, portugués, alemán y francés.
+</es-US>
+<fr-CA>
+- Travaillez en arrière-plan.
+- Reconnexion automatique après perte de connexion.
+- Prise en charge du protocole HTTPS.
+- Localisation en russe, ukrainien, anglais, espagnol, portugais, allemand et français.
+</fr-CA>
+<fr-FR>
+- Travaillez en arrière-plan.
+- Reconnexion automatique après perte de connexion.
+- Prise en charge du protocole HTTPS.
+- Localisation en russe, ukrainien, anglais, espagnol, portugais, allemand et français.
+</fr-FR>
+<pt-BR>
+- Trabalhe em segundo plano.
+- Reconexão automática após perda de conexão.
+- Suporte ao protocolo HTTPS.
+- Localização em russo, ucraniano, inglês, espanhol, português, alemão e francês.
+</pt-BR>
+<pt-PT>
+- Trabalhe em segundo plano.
+- Reconexão automática após perda de conexão.
+- Suporte ao protocolo HTTPS.
+- Localização em russo, ucraniano, inglês, espanhol, português, alemão e francês.
+</pt-PT>
+<ru-RU>
+- Работа в фоновом режиме.
+- Автоматическое переподключение после потери соединения.
+- Поддержка протокола HTTPS.
+- Локализация на русском, украинском, английском, испанском, португальском, немецком и французском языках.
+</ru-RU>
+<uk>
+- Робота у фоновому режимі.
+- Автоматичне перепідключення після втрати з'єднання.
+- Підтримка протоколу HTTPS.
+- Локалізація російською, українською, англійською, іспанською, португальською, німецькою та французькою мовами.
+</uk>

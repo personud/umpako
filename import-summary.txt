@@ -1,0 +1,94 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* proguard-project.txt
+* ss\
+* ss\mob_en_01.png
+* ss\mob_en_02.png
+* ss\mob_en_03.png
+* ss\mob_ru_01.png
+* ss\mob_ru_02.png
+* ss\mob_ru_03.png
+* ss\res\
+* ss\res\1231668_585197828189326_1355279098_n.jpg
+* ss\res\418918_425415750834202_1713921567_n.jpg
+* ss\res\Untitled-1.png
+* ss\res\ego.png
+* ss\res\launcher.png
+* ss\res\logo_ban.png
+* ss\res\new\
+* ss\res\new\um1_waifu2x_photo_noise3_scale_tta_1+.png
+* ss\res\new\um2_waifu2x_photo_noise3_scale_tta_1.png
+* ss\res\new\umpako_block.png
+* ss\res\new\umpako_block.psd
+* ss\res\new\umpako_icon.png
+* ss\res\new\umpako_icon.psd
+* ss\res\new\umpako_waifu2x_photo_noise3_scale_tta_1.png
+* ss\res\u1.jpg
+* ss\res\um1.png
+* ss\res\um2.png
+* ss\res\umpako.png
+* ss\res\umpako_logo.gif
+* ss\res\web_hi_res_512.png
+* ss\ss\
+* ss\ss\big.png
+* ss\ss\mob_en_01.png
+* ss\ss\mob_en_02.png
+* ss\ss\mob_en_03.png
+* ss\ss\mob_ru_01.png
+* ss\ss\mob_ru_02.png
+* ss\ss\mob_ru_03.png
+* ss\ss\rek.png
+* ss\ss\um1vk.png
+* ss\ss\um2vk.png
+* ss\ss\umpako.jpg
+* ss\ss\umpako2.jpg
+* ss\webicon.png
+* stream.txt
+* umpako.apk
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\org.apache.http.legacy.jar => app\libs\org.apache.http.legacy.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\kurbetsoft\umpako\UpdateService.aidl => app\src\main\aidl\com\kurbetsoft\umpako\UpdateService.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

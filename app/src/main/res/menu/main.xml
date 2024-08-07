@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_vk"
+        android:title="@string/menu_vk"
+        android:icon="@drawable/vk"
+        android:orderInCategory="100" />
+        
+    <item android:id="@+id/menu_fb"
+        android:title="@string/menu_fb"
+        android:icon="@drawable/fb"
+        android:orderInCategory="101" />
+        
+   <item android:id="@+id/menu_tw"
+        android:title="@string/menu_tw"
+        android:icon="@drawable/tw"
+        android:orderInCategory="102" />
+        
+   <item android:id="@+id/menu_yt"
+        android:title="@string/menu_yt"
+        android:icon="@drawable/yt"
+        android:orderInCategory="103" />
+		
+  <item android:id="@+id/menu_st"
+        android:title="@string/menu_st"
+        android:icon="@drawable/ic_menu_site"
+        android:orderInCategory="104" />
+  
+  <item android:id="@+id/menu_open"
+        android:title="@string/menu_open"
+        android:icon="@drawable/open"
+        android:orderInCategory="105" />
+        
+   <item android:id="@+id/menu_fav"
+        android:title="@string/menu_fav"
+        android:icon="@drawable/ic_fav_site"
+        android:orderInCategory="106" />
+		
+	<item android:id="@+id/menu_exit"
+        android:title="@string/menu_exit"
+        android:icon="@drawable/exit"
+        android:orderInCategory="107" />
+</menu>

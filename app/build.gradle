@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 34
+    buildToolsVersion "33.0.2"
+
+    defaultConfig {
+        applicationId "com.kurbetsoft.umpako"
+        minSdkVersion 14
+        targetSdkVersion 34
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+        implementation "androidx.legacy:legacy-support-v4:1.0.0"
+        implementation "androidx.annotation:annotation:1.0.2"
+        implementation "androidx.fragment:fragment:1.1.0+"
+    }
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Umpako Radio</string>
+    <string name="menu_vk">VK</string>
+    <string name="menu_fb">Facebook</string>
+    <string name="menu_tw">X</string>
+	<string name="menu_yt">YouTube</string>
+    <string name="menu_st">Sitio web</string>
+    <string name="menu_exit">Salida</string>
+    <string name="title_activity_main">Umpako Radio</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausa</string>
+    <string name="stop">Detener</string>
+    <string name="menu_fav">Evaluar la aplicación</string>
+    <string name="menu_open">Abrir flujo de audio</string>
+    <string name="stopped">Detenido</string>
+    <string name="paused">Pausado</string>
+    <string name="prepare">Preparación...</string>
+    <string name="reconnecting">Reconectando...</string>
+    <string name="played">Reproduciendo</string>
+    <string name="umpako">Umpako.com – sello discográfico independiente de música experimental en red</string>
+</resources>
